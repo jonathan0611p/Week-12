@@ -428,10 +428,27 @@
               "status": "Calculated · awaiting instructor review"
             }
           ]
+        },
+        {
+          "id": "PERSON-811015F8BF2381799D3AF13E",
+          "name": "Paul Duarte",
+          "prep": "PREP-A75825354721E7945AE5BF89",
+          "clocks": [
+            {
+              "code": "TIME-EB56D0EBBF2FE04C99E154A7",
+              "name": "Paul Duarte",
+              "day": "A",
+              "arrival": "2026-11-10T21:04:26.730Z",
+              "start": "2026-11-10T20:45:00Z",
+              "calculated": 15,
+              "deduction": 15,
+              "status": "Calculated · awaiting instructor review"
+            }
+          ]
         }
       ],
       "invites": [],
-      "revision": 2,
+      "revision": 3,
       "plan": {},
       "tasks": [],
       "form": null
