@@ -411,12 +411,27 @@
               "status": "Calculated · awaiting instructor review"
             }
           ]
+        },
+        {
+          "id": "PERSON-ACCA86AE8CC470D2F7FA9BE5",
+          "name": "Mio Bal",
+          "prep": "PREP-6C20F4A6F469739949D22A09",
+          "clocks": [
+            {
+              "code": "TIME-37FFAE74CF45602E6AE292FB",
+              "name": "Mio Bal",
+              "day": "A",
+              "arrival": "2026-11-10T21:04:20.187Z",
+              "start": "2026-11-10T20:45:00Z",
+              "calculated": 15,
+              "deduction": 15,
+              "status": "Calculated · awaiting instructor review"
+            }
+          ]
         }
       ],
-      "invites": [
-        "PERSON-ACCA86AE8CC470D2F7FA9BE5"
-      ],
-      "revision": 1,
+      "invites": [],
+      "revision": 2,
       "plan": {},
       "tasks": [],
       "form": null
