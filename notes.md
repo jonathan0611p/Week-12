@@ -1,0 +1,503 @@
+{
+  "draftRevision": 483,
+  "me": {
+    "id": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+    "name": "Jonathan Pacheco",
+    "prep": "PREP-53EF46ED82D48E4FF37852C8",
+    "pitch": "FORM-C103AB4D637529014D1B3044",
+    "verificationCode": "VIEW-C1DF8802051C3182CACFD51C"
+  },
+  "draft": {
+    "prep": {
+      "repo": "https://github.com/jonathan0611p/Week-12-A",
+      "gitTest": "I allowed P2P to access my github and installed the extension",
+      "access": "I selected my 12A repository and made that my work course for tuesday ",
+      "video1": "Video 1 is a overview of what the next videos are going to be.\nTake notes and rewatch if needed.\n",
+      "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game is the most important thing I took from the video ",
+      "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?",
+      "video4": "Document what was done, who did it, whats the next step, keep times and other types of important notes so that you can start off where you left.\n ",
+      "video5": "Unity is one the most common and easiest game developer to use, we can change multiple things at the same time.",
+      "video6": "we can change the character to whatever we want, it can be made or imported.",
+      "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
+      "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
+    },
+    "currentPage": 28,
+    "prepBoard": {
+      "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
+      "strokes": [],
+      "images": [],
+      "nodes": [
+        {
+          "id": "feae90d8-04a3-4d66-a296-e835ddbc95a6",
+          "kind": "text",
+          "x": 0.29366429374297487,
+          "y": 0.033526861399071725,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": ""
+        },
+        {
+          "id": "34dfdb43-f99f-4f5c-a635-1ee5024f9349",
+          "kind": "text",
+          "x": 0.053874110153615595,
+          "y": 0.0459778772129735,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": "The Background"
+        },
+        {
+          "id": "99af5d58-4573-4a65-b8d8-851363a7017f",
+          "kind": "text",
+          "x": 0.4122272178510471,
+          "y": 0.06554375920624772,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": "The work"
+        },
+        {
+          "id": "bd868c97-2788-41ee-b8e1-744aa7b974ee",
+          "kind": "diamond",
+          "x": 0.40956288247783196,
+          "y": 0.2754323114977348,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": ""
+        },
+        {
+          "id": "ae586b33-b0d8-44a6-84b0-5bee0bdcfd68",
+          "kind": "text",
+          "x": 0.42155239165729985,
+          "y": 0.042420444123287285,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": ""
+        },
+        {
+          "id": "97e7283a-c085-4565-b42e-71d09bb54ad5",
+          "kind": "text",
+          "x": 0.409562882477832,
+          "y": 0.2683174453183625,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": "Results"
+        },
+        {
+          "id": "7b5eeb94-8a82-474d-9668-2348ea692e62",
+          "kind": "rect",
+          "x": 0.036555930227717415,
+          "y": 0.2540877129596176,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": ""
+        },
+        {
+          "id": "0c96b0f3-446f-402a-9e9e-b5365d31f82a",
+          "kind": "text",
+          "x": 0.10183214687148745,
+          "y": 0.4284019343542425,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": ""
+        },
+        {
+          "id": "0f9fc71b-8825-460e-9632-4c7936f7f045",
+          "kind": "text",
+          "x": 0.037300695225011456,
+          "y": 0.2416366971457158,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": "Revision"
+        }
+      ],
+      "edges": [
+        {
+          "id": "fbab0799-dc46-4ff3-9e7d-41673e324d98",
+          "from": "34dfdb43-f99f-4f5c-a635-1ee5024f9349",
+          "fromPort": "e",
+          "to": "99af5d58-4573-4a65-b8d8-851363a7017f",
+          "toPort": "w",
+          "color": "#75559c"
+        },
+        {
+          "id": "df55a314-2aa6-4409-a013-96889b8becfd",
+          "from": "99af5d58-4573-4a65-b8d8-851363a7017f",
+          "fromPort": "s",
+          "to": "bd868c97-2788-41ee-b8e1-744aa7b974ee",
+          "toPort": "n",
+          "color": "#75559c"
+        },
+        {
+          "id": "45cffbd8-7805-42ba-837c-3c85e5291ef6",
+          "from": "97e7283a-c085-4565-b42e-71d09bb54ad5",
+          "fromPort": "w",
+          "to": "0f9fc71b-8825-460e-9632-4c7936f7f045",
+          "toPort": "e",
+          "color": "#75559c"
+        }
+      ],
+      "pen": {
+        "color": "#75559c",
+        "size": 3
+      }
+    },
+    "pitch": {
+      "understand": "The job in itself is to be part of a team but also understand that as an individual you have lots to do for yourself and the team. The finish line is always changing, and each small step was the previous finish line, I can relate this to when you are creating something like a game or a book you have multiple steps to complete before reaching the end. The end can be the beginning of the next project.",
+      "offer": "I believe that I bring organization and leadership to a team, I like to stay organized and make sure that we all can access what we need to and when we need to. Id say that my leadership skills are something that I can contribute, and have previously contributed in past projects. In the Slideshow, Lov3rs Plaza, and Sharksweeper projects I have been the team leader and have been in charge of setting up and distributing the work load to the correct individuals based on their skills. I had been in charge of managing the main repository making sure that assignments get done in time for submission.",
+      "limits": "I think that my knowledge in coding would be classified as basic, meaning that I have been brushing up in my skills and trying more solo projects to further those skills. I think that understanding the code is important but so is understanding the story.",
+      "availability": "\nPreferred contact: Text\nI dont have a set work schedule so somedays I open others I close, I can be contacted and can respond at any time",
+      "tools": "Some of the most useful tools that I will be using are Youtube, Spotify and A.I such as Gemini and Chatgpt. I would say that these tools are important to me because I have learned so much from youtube, I dont have to stay with one way of understanding things because there is always another video that will teach it differently. Music is an important part of my life and Spotify helps me focus and create a mood for the project that I am working. A.I is one of the most powerful tools not only for this class but in general because it can help in areas that I am lacking and bounce ideas.",
+      "aiTool": "AI: Chat GPT and Gemini\nTask: Serve as a pool of information where I can ask questions or for clarification.\nVerification: I will not take it as face value but will ask for references and will look for other sources. I can relate to using AI with English and Math, I have used it to help me understand math concepts or to use example to clarify. "
+    },
+    "availability": {
+      "notes": "I dont have a set work schedule so somedays I open others I close, I can be contacted and can respond at any time",
+      "slots": [],
+      "contact": "Text"
+    },
+    "aiPlan": {
+      "name": "Chat GPT and Gemini",
+      "task": "Serve as a pool of information where I can ask questions or for clarification.",
+      "verify": "I will not take it as face value but will ask for references and will look for other sources. I can relate to using AI with English and Math, I have used it to help me understand math concepts or to use example to clarify. "
+    },
+    "huddle": {
+      "mission": "X",
+      "framework": "X"
+    },
+    "huddleBoard": {
+      "notes": "",
+      "strokes": [],
+      "images": [],
+      "nodes": [],
+      "edges": []
+    },
+    "pipelineBoard": {
+      "notes": "",
+      "strokes": [],
+      "images": [],
+      "nodes": [],
+      "edges": []
+    },
+    "tasks": [],
+    "planRevision": 0
+  },
+  "receipts": [
+    {
+      "verificationCode": "VIEW-C1DF8802051C3182CACFD51C",
+      "code": "PREP-53EF46ED82D48E4FF37852C8",
+      "kind": "prep",
+      "name": "Jonathan Pacheco",
+      "person": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+      "issued": "2026-11-10T22:07:40.574Z",
+      "data": {
+        "repo": "https://github.com/jonathan0611p/12A",
+        "gitTest": "I allowed P2P to access my github and installed the extension",
+        "access": "I selected my 12A repository and made that my work course for tuesday",
+        "video1": "Video 1 is a overview of what the next videos are going to be.\nTake notes and rewatch if needed.",
+        "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game is the most important thing I took from the video",
+        "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?",
+        "video4": "Document what was done, who did it, whats the next step, keep times and other types of important notes so that you can start off where you left.",
+        "video5": "Unity is one the most common and easiest game developer to use, we can change multiple things at the same time.",
+        "video6": "we can change the character to whatever we want, it can be made or imported.",
+        "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
+        "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?",
+        "board": {
+          "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
+          "strokes": [],
+          "images": [],
+          "nodes": [
+            {
+              "id": "feae90d8-04a3-4d66-a296-e835ddbc95a6",
+              "kind": "text",
+              "x": 0.29366429374297487,
+              "y": 0.033526861399071725,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#75559c",
+              "text": ""
+            },
+            {
+              "id": "34dfdb43-f99f-4f5c-a635-1ee5024f9349",
+              "kind": "text",
+              "x": 0.053874110153615595,
+              "y": 0.0459778772129735,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#75559c",
+              "text": "The Background"
+            },
+            {
+              "id": "99af5d58-4573-4a65-b8d8-851363a7017f",
+              "kind": "text",
+              "x": 0.4122272178510471,
+              "y": 0.06554375920624772,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#75559c",
+              "text": "The work"
+            },
+            {
+              "id": "bd868c97-2788-41ee-b8e1-744aa7b974ee",
+              "kind": "diamond",
+              "x": 0.40956288247783196,
+              "y": 0.2754323114977348,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#75559c",
+              "text": ""
+            },
+            {
+              "id": "ae586b33-b0d8-44a6-84b0-5bee0bdcfd68",
+              "kind": "text",
+              "x": 0.42155239165729985,
+              "y": 0.042420444123287285,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#75559c",
+              "text": ""
+            },
+            {
+              "id": "97e7283a-c085-4565-b42e-71d09bb54ad5",
+              "kind": "text",
+              "x": 0.409562882477832,
+              "y": 0.2683174453183625,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#75559c",
+              "text": "Results"
+            },
+            {
+              "id": "7b5eeb94-8a82-474d-9668-2348ea692e62",
+              "kind": "rect",
+              "x": 0.036555930227717415,
+              "y": 0.2540877129596176,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#75559c",
+              "text": ""
+            },
+            {
+              "id": "0c96b0f3-446f-402a-9e9e-b5365d31f82a",
+              "kind": "text",
+              "x": 0.10183214687148745,
+              "y": 0.4284019343542425,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#75559c",
+              "text": ""
+            },
+            {
+              "id": "0f9fc71b-8825-460e-9632-4c7936f7f045",
+              "kind": "text",
+              "x": 0.037300695225011456,
+              "y": 0.2416366971457158,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#75559c",
+              "text": "Revision"
+            }
+          ],
+          "edges": [
+            {
+              "id": "fbab0799-dc46-4ff3-9e7d-41673e324d98",
+              "from": "34dfdb43-f99f-4f5c-a635-1ee5024f9349",
+              "fromPort": "e",
+              "to": "99af5d58-4573-4a65-b8d8-851363a7017f",
+              "toPort": "w",
+              "color": "#75559c"
+            },
+            {
+              "id": "df55a314-2aa6-4409-a013-96889b8becfd",
+              "from": "99af5d58-4573-4a65-b8d8-851363a7017f",
+              "fromPort": "s",
+              "to": "bd868c97-2788-41ee-b8e1-744aa7b974ee",
+              "toPort": "n",
+              "color": "#75559c"
+            },
+            {
+              "id": "45cffbd8-7805-42ba-837c-3c85e5291ef6",
+              "from": "97e7283a-c085-4565-b42e-71d09bb54ad5",
+              "fromPort": "w",
+              "to": "0f9fc71b-8825-460e-9632-4c7936f7f045",
+              "toPort": "e",
+              "color": "#75559c"
+            }
+          ],
+          "pen": {
+            "color": "#75559c",
+            "size": 3
+          }
+        }
+      },
+      "digest": "ca93ac5ca042d760e583eec5195538ab7d5ab51f1557cb77e4c367d1f367c511"
+    },
+    {
+      "verificationCode": "VIEW-C1DF8802051C3182CACFD51C",
+      "code": "FORM-C103AB4D637529014D1B3044",
+      "kind": "pitch",
+      "name": "Jonathan Pacheco",
+      "person": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+      "issued": "2026-11-10T22:40:54.994Z",
+      "data": {
+        "understand": "The job in itself is to be part of a team but also understand that as an individual you have lots to do for yourself and the team. The finish line is always changing, and each small step was the previous finish line, I can relate this to when you are creating something like a game or a book you have multiple steps to complete before reaching the end. The end can be the beginning of the next project.",
+        "offer": "I believe that I bring organization and leadership to a team, I like to stay organized and make sure that we all can access what we need to and when we need to. Id say that my leadership skills are something that I can contribute, and have previously contributed in past projects. In the Slideshow, Lov3rs Plaza, and Sharksweeper projects I have been the team leader and have been in charge of setting up and distributing the work load to the correct individuals based on their skills. I had been in charge of managing the main repository making sure that assignments get done in time for submission.",
+        "limits": "I think that my knowledge in coding would be classified as basic, meaning that I have been brushing up in my skills and trying more solo projects to further those skills. I think that understanding the code is important but so is understanding the story.",
+        "availability": "Preferred contact: Text\nI dont have a set work schedule so somedays I open others I close, I can be contacted and can respond at any time",
+        "tools": "Some of the most useful tools that I will be using are Youtube, Spotify and A.I such as Gemini and Chatgpt. I would say that these tools are important to me because I have learned so much from youtube, I dont have to stay with one way of understanding things because there is always another video that will teach it differently. Music is an important part of my life and Spotify helps me focus and create a mood for the project that I am working. A.I is one of the most powerful tools not only for this class but in general because it can help in areas that I am lacking and bounce ideas.",
+        "aiTool": "AI: Chat GPT and Gemini\nTask: Serve as a pool of information where I can ask questions or for clarification.\nVerification: I will not take it as face value but will ask for references and will look for other sources. I can relate to using AI with English and Math, I have used it to help me understand math concepts or to use example to clarify.",
+        "ai": {
+          "name": "Chat GPT and Gemini",
+          "task": "Serve as a pool of information where I can ask questions or for clarification.",
+          "verify": "I will not take it as face value but will ask for references and will look for other sources. I can relate to using AI with English and Math, I have used it to help me understand math concepts or to use example to clarify."
+        }
+      },
+      "digest": "c70f1d537896ce15fd7eba81a320d1edb988653fb2aeb0a1910767fe319aa5c9"
+    }
+  ],
+  "clocks": [
+    {
+      "code": "TIME-A85BF3A8C72D776094A7AB2A",
+      "name": "Jonathan Pacheco",
+      "day": "A",
+      "arrival": "2026-11-10T20:59:51.006Z",
+      "start": "2026-11-10T20:45:00Z",
+      "calculated": 10,
+      "deduction": 10,
+      "status": "Calculated · awaiting instructor review"
+    }
+  ],
+  "team": {
+    "id": "TEAM-269007727C029395881B847D",
+    "name": "Hello W0rld",
+    "lead": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+    "members": [
+      {
+        "id": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+        "name": "Jonathan Pacheco",
+        "prep": "PREP-53EF46ED82D48E4FF37852C8",
+        "clocks": [
+          {
+            "code": "TIME-A85BF3A8C72D776094A7AB2A",
+            "name": "Jonathan Pacheco",
+            "day": "A",
+            "arrival": "2026-11-10T20:59:51.006Z",
+            "start": "2026-11-10T20:45:00Z",
+            "calculated": 10,
+            "deduction": 10,
+            "status": "Calculated · awaiting instructor review"
+          }
+        ]
+      },
+      {
+        "id": "PERSON-32DB4A42A2AF226E95A2B700",
+        "name": "Daniel P",
+        "prep": "PREP-96FF36A18133575134FE8F7B",
+        "clocks": [
+          {
+            "code": "TIME-4F8DBA903D16D16DB556B1C7",
+            "name": "Daniel P",
+            "day": "A",
+            "arrival": "2026-11-10T21:01:12.353Z",
+            "start": "2026-11-10T20:45:00Z",
+            "calculated": 15,
+            "deduction": 15,
+            "status": "Calculated · awaiting instructor review"
+          }
+        ]
+      },
+      {
+        "id": "PERSON-ACCA86AE8CC470D2F7FA9BE5",
+        "name": "Mio Bal",
+        "prep": "PREP-6C20F4A6F469739949D22A09",
+        "clocks": [
+          {
+            "code": "TIME-37FFAE74CF45602E6AE292FB",
+            "name": "Mio Bal",
+            "day": "A",
+            "arrival": "2026-11-10T21:04:20.187Z",
+            "start": "2026-11-10T20:45:00Z",
+            "calculated": 15,
+            "deduction": 15,
+            "status": "Calculated · awaiting instructor review"
+          }
+        ]
+      },
+      {
+        "id": "PERSON-811015F8BF2381799D3AF13E",
+        "name": "Paul Duarte",
+        "prep": "PREP-A75825354721E7945AE5BF89",
+        "clocks": [
+          {
+            "code": "TIME-EB56D0EBBF2FE04C99E154A7",
+            "name": "Paul Duarte",
+            "day": "A",
+            "arrival": "2026-11-10T21:04:26.730Z",
+            "start": "2026-11-10T20:45:00Z",
+            "calculated": 15,
+            "deduction": 15,
+            "status": "Calculated · awaiting instructor review"
+          }
+        ]
+      }
+    ],
+    "invites": [],
+    "revision": 3,
+    "plan": {},
+    "tasks": [],
+    "form": null
+  },
+  "invites": [],
+  "serverNow": "2026-11-10T23:36:14.411Z",
+  "github": {
+    "workspaceId": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+    "repo": {
+      "owner": "jonathan0611p",
+      "repo": "Week-12-A",
+      "fullName": "jonathan0611p/Week-12-A",
+      "url": "https://github.com/jonathan0611p/Week-12-A",
+      "id": 1453280292,
+      "private": false,
+      "defaultBranch": "main",
+      "verifiedAt": "2026-11-10T22:56:44.041Z"
+    },
+    "connected": true,
+    "account": {
+      "id": 321914391,
+      "login": "jonathan0611p"
+    },
+    "canBackup": true,
+    "publicBackupApproved": true,
+    "branch": "development-road-backups",
+    "lastBackup": "2026-11-10T23:29:55.325Z",
+    "lastCommit": "7bd813bd9f1dfd23613ba76da026ecd06374e090",
+    "lastError": "",
+    "pending": false,
+    "preferences": {
+      "schemaVersion": 1,
+      "theme": "development-road",
+      "lastPage": 28,
+      "timerMinutes": 10
+    },
+    "policy": {
+      "repoRequired": true,
+      "verifyOnline": true,
+      "allowOffline": true,
+      "autoBackup": true,
+      "intervalMinutes": 5
+    },
+    "appConfigured": true
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 28,
+    "timerMinutes": 10
+  }
+}
