@@ -413,7 +413,9 @@
           ]
         }
       ],
-      "invites": [],
+      "invites": [
+        "PERSON-ACCA86AE8CC470D2F7FA9BE5"
+      ],
       "revision": 1,
       "plan": {},
       "tasks": [],
