@@ -394,12 +394,30 @@
               "status": "Calculated · awaiting instructor review"
             }
           ]
+        },
+        {
+          "id": "PERSON-32DB4A42A2AF226E95A2B700",
+          "name": "Daniel P",
+          "prep": "PREP-96FF36A18133575134FE8F7B",
+          "clocks": [
+            {
+              "code": "TIME-4F8DBA903D16D16DB556B1C7",
+              "name": "Daniel P",
+              "day": "A",
+              "arrival": "2026-11-10T21:01:12.353Z",
+              "start": "2026-11-10T20:45:00Z",
+              "calculated": 15,
+              "deduction": 15,
+              "status": "Calculated · awaiting instructor review"
+            }
+          ]
         }
       ],
       "invites": [],
-      "revision": 0,
+      "revision": 1,
       "plan": {},
-      "tasks": []
+      "tasks": [],
+      "form": null
     },
     "invites": []
   },
