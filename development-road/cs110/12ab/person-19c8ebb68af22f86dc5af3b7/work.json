@@ -173,7 +173,7 @@
       "huddle": {
         "mission": "We wanted to create a new type of game where we can combine minecraft mobs and creatures with pokemon balls",
         "framework": "My team a I choose P2P for the simple fact it will help us with the use of organized sources and will help us with the game engine setup.",
-        "pipeline": "booo · 2026-11-10T12:45 to 2026-11-10T13:45 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nUnnamed stage\nUnnamed stage"
+        "pipeline": "Background · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nUnnamed stage\nLearn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where "
       },
       "huddleBoard": {
         "notes": "",
@@ -183,7 +183,7 @@
         "edges": []
       },
       "pipelineBoard": {
-        "notes": "",
+        "notes": "Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where ",
         "strokes": [],
         "images": [],
         "nodes": [
@@ -194,17 +194,17 @@
             "y": 0.03422021772257661,
             "w": 0.16,
             "h": 0.17,
-            "text": "booo",
+            "text": "Background",
             "color": "#175363",
-            "owner": "",
-            "start": "2026-11-10T12:45",
-            "end": "2026-11-10T13:45"
+            "owner": "Jonathan",
+            "start": "2026-11-11T15:45",
+            "end": "2026-11-11T16:30"
           },
           {
             "id": "8cbae3a6-5b9a-4297-b0ef-e357dface9f6",
             "kind": "rect",
-            "x": 0.225,
-            "y": 0.29,
+            "x": 0.24380479907067198,
+            "y": 0.031055913442898597,
             "w": 0.16,
             "h": 0.17,
             "text": "Inputs / assets",
@@ -216,8 +216,8 @@
           {
             "id": "7a9acc3b-4cea-417b-b8bd-c990585aba69",
             "kind": "rect",
-            "x": 0.42000000000000004,
-            "y": 0.29,
+            "x": 0.49521919628268796,
+            "y": 0.031055730518071464,
             "w": 0.16,
             "h": 0.17,
             "text": "Build + configure",
@@ -229,8 +229,8 @@
           {
             "id": "f3c9ebbb-a872-48f6-be9a-92a9fc002b73",
             "kind": "rect",
-            "x": 0.615,
-            "y": 0.29,
+            "x": 0.6612887191953446,
+            "y": 0.529763229420751,
             "w": 0.16,
             "h": 0.17,
             "text": "Output / scene",
@@ -242,8 +242,8 @@
           {
             "id": "8bfc53c9-07d2-423b-b9de-6a64b7b3c56c",
             "kind": "ellipse",
-            "x": 0.81,
-            "y": 0.29,
+            "x": 0.3008235922266559,
+            "y": 0.5249677636150263,
             "w": 0.16,
             "h": 0.17,
             "text": "Test + handoff",
@@ -257,16 +257,6 @@
             "kind": "text",
             "x": 0.02450626521509898,
             "y": 0.5364928735902039,
-            "w": 0.18,
-            "h": 0.14,
-            "color": "#153f48",
-            "text": ""
-          },
-          {
-            "id": "5e37c63b-0e27-43ee-97fd-a77d8cb83966",
-            "kind": "rect",
-            "x": 0.29706807014106107,
-            "y": 0.049220217722576606,
             "w": 0.18,
             "h": 0.14,
             "color": "#153f48",
@@ -305,14 +295,6 @@
             "to": "8bfc53c9-07d2-423b-b9de-6a64b7b3c56c",
             "toPort": "w",
             "color": "#175363"
-          },
-          {
-            "id": "825807d1-4c07-4f25-b5f6-47cfc35f4c4d",
-            "from": "24fb5108-ebc0-4fd8-8aaa-d14481986848",
-            "fromPort": "e",
-            "to": "5e37c63b-0e27-43ee-97fd-a77d8cb83966",
-            "toPort": "w",
-            "color": "#153f48"
           }
         ]
       },
@@ -749,7 +731,7 @@
     "huddle": {
       "mission": "We wanted to create a new type of game where we can combine minecraft mobs and creatures with pokemon balls",
       "framework": "My team a I choose P2P for the simple fact it will help us with the use of organized sources and will help us with the game engine setup.",
-      "pipeline": "booo · 2026-11-10T12:45 to 2026-11-10T13:45 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nUnnamed stage\nUnnamed stage"
+      "pipeline": "Background · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nUnnamed stage\nLearn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where "
     },
     "huddleBoard": {
       "notes": "",
@@ -759,7 +741,7 @@
       "edges": []
     },
     "pipelineBoard": {
-      "notes": "",
+      "notes": "Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where ",
       "strokes": [],
       "images": [],
       "nodes": [
@@ -770,17 +752,17 @@
           "y": 0.03422021772257661,
           "w": 0.16,
           "h": 0.17,
-          "text": "booo",
+          "text": "Background",
           "color": "#175363",
-          "owner": "",
-          "start": "2026-11-10T12:45",
-          "end": "2026-11-10T13:45"
+          "owner": "Jonathan",
+          "start": "2026-11-11T15:45",
+          "end": "2026-11-11T16:30"
         },
         {
           "id": "8cbae3a6-5b9a-4297-b0ef-e357dface9f6",
           "kind": "rect",
-          "x": 0.225,
-          "y": 0.29,
+          "x": 0.24380479907067198,
+          "y": 0.031055913442898597,
           "w": 0.16,
           "h": 0.17,
           "text": "Inputs / assets",
@@ -792,8 +774,8 @@
         {
           "id": "7a9acc3b-4cea-417b-b8bd-c990585aba69",
           "kind": "rect",
-          "x": 0.42000000000000004,
-          "y": 0.29,
+          "x": 0.49521919628268796,
+          "y": 0.031055730518071464,
           "w": 0.16,
           "h": 0.17,
           "text": "Build + configure",
@@ -805,8 +787,8 @@
         {
           "id": "f3c9ebbb-a872-48f6-be9a-92a9fc002b73",
           "kind": "rect",
-          "x": 0.615,
-          "y": 0.29,
+          "x": 0.6612887191953446,
+          "y": 0.529763229420751,
           "w": 0.16,
           "h": 0.17,
           "text": "Output / scene",
@@ -818,8 +800,8 @@
         {
           "id": "8bfc53c9-07d2-423b-b9de-6a64b7b3c56c",
           "kind": "ellipse",
-          "x": 0.81,
-          "y": 0.29,
+          "x": 0.3008235922266559,
+          "y": 0.5249677636150263,
           "w": 0.16,
           "h": 0.17,
           "text": "Test + handoff",
@@ -833,16 +815,6 @@
           "kind": "text",
           "x": 0.02450626521509898,
           "y": 0.5364928735902039,
-          "w": 0.18,
-          "h": 0.14,
-          "color": "#153f48",
-          "text": ""
-        },
-        {
-          "id": "5e37c63b-0e27-43ee-97fd-a77d8cb83966",
-          "kind": "rect",
-          "x": 0.29706807014106107,
-          "y": 0.049220217722576606,
           "w": 0.18,
           "h": 0.14,
           "color": "#153f48",
@@ -881,14 +853,6 @@
           "to": "8bfc53c9-07d2-423b-b9de-6a64b7b3c56c",
           "toPort": "w",
           "color": "#175363"
-        },
-        {
-          "id": "825807d1-4c07-4f25-b5f6-47cfc35f4c4d",
-          "from": "24fb5108-ebc0-4fd8-8aaa-d14481986848",
-          "fromPort": "e",
-          "to": "5e37c63b-0e27-43ee-97fd-a77d8cb83966",
-          "toPort": "w",
-          "color": "#153f48"
         }
       ]
     },
