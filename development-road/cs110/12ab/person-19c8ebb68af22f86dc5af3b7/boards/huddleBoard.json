@@ -1,5 +1,5 @@
 {
-  "notes": "We have our assigned tasks",
+  "notes": "We have our assigned tasks and have chosen who is doing what.",
   "strokes": [],
   "images": [],
   "nodes": [
@@ -146,8 +146,8 @@
     {
       "id": "d3e42d7e-5961-4958-9383-fe2142360a01",
       "kind": "rect",
-      "x": 0.4087074557006079,
-      "y": 0.19462029518673749,
+      "x": 0.40870745570060785,
+      "y": 0.1946202951867375,
       "w": 0.451660874598888,
       "h": 0.12025309630275369,
       "color": "#153f48",
@@ -192,6 +192,17 @@
       "h": 0.359029623135285,
       "color": "#153f48",
       "text": "Test end results"
+    },
+    {
+      "id": "bc9098a9-9ffa-4fe0-9694-d45c04772639",
+      "kind": "note",
+      "x": 0.78,
+      "y": 0.35626590402769254,
+      "w": 0.22,
+      "h": 0.24,
+      "color": "#153f48",
+      "text": "",
+      "fill": "#fbd5de"
     }
   ],
   "edges": [
@@ -241,6 +252,14 @@
       "fromPort": "w",
       "to": "b31556ab-0505-4a23-ad2e-6547cb955743",
       "toPort": "e",
+      "color": "#153f48"
+    },
+    {
+      "id": "2763d0bd-cfca-4fc4-9bf0-66c8ddaa5e0d",
+      "from": "d3e42d7e-5961-4958-9383-fe2142360a01",
+      "fromPort": "e",
+      "to": "bc9098a9-9ffa-4fe0-9694-d45c04772639",
+      "toPort": "n",
       "color": "#153f48"
     }
   ]
