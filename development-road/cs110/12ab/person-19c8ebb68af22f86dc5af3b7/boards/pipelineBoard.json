@@ -1,13 +1,13 @@
 {
-  "notes": " Background \n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\n",
+  "notes": " Background \n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\nAssets\n    -",
   "strokes": [],
   "images": [],
   "nodes": [
     {
       "id": "24fb5108-ebc0-4fd8-8aaa-d14481986848",
       "kind": "ellipse",
-      "x": 0.027068070141061024,
-      "y": 0.03422021772257661,
+      "x": 0.32071240154149483,
+      "y": 0.027557439321701044,
       "w": 0.16,
       "h": 0.17,
       "text": "Background",
@@ -19,8 +19,8 @@
     {
       "id": "8cbae3a6-5b9a-4297-b0ef-e357dface9f6",
       "kind": "rect",
-      "x": 0.24380479907067198,
-      "y": 0.031055913442898597,
+      "x": 0.12085027144946275,
+      "y": 0.20429289640846493,
       "w": 0.16,
       "h": 0.17,
       "text": "Assets",
@@ -32,41 +32,41 @@
     {
       "id": "7a9acc3b-4cea-417b-b8bd-c990585aba69",
       "kind": "rect",
-      "x": 0.49521919628268796,
-      "y": 0.031055730518071464,
+      "x": 0.6051550423228962,
+      "y": 0.3020163157370923,
       "w": 0.16,
       "h": 0.17,
-      "text": "Build + configure",
+      "text": "Body Frame",
       "color": "#175363",
-      "owner": "",
-      "start": "2026-11-10T14:45",
-      "end": "2026-11-10T15:45"
+      "owner": "Isaias",
+      "start": "2026-11-11T15:45",
+      "end": "2026-11-11T16:30"
     },
     {
       "id": "f3c9ebbb-a872-48f6-be9a-92a9fc002b73",
       "kind": "rect",
-      "x": 0.7365079154780326,
-      "y": 0.15573262810934463,
+      "x": 0.16802399656733102,
+      "y": 0.6199192092883873,
       "w": 0.16,
       "h": 0.17,
-      "text": "Output / scene",
+      "text": "Output",
       "color": "#175363",
-      "owner": "",
-      "start": "2026-11-10T15:45",
-      "end": "2026-11-10T16:45"
+      "owner": "Daniel",
+      "start": "2026-11-11T15:45",
+      "end": "2026-11-11T16:30"
     },
     {
       "id": "8bfc53c9-07d2-423b-b9de-6a64b7b3c56c",
       "kind": "ellipse",
-      "x": 0.7806924336821365,
-      "y": 0.43625525897445205,
+      "x": 0.5825187097782393,
+      "y": 0.5939453918674013,
       "w": 0.16,
       "h": 0.17,
-      "text": "Test + handoff",
+      "text": "Results",
       "color": "#175363",
-      "owner": "",
-      "start": "2026-11-10T16:45",
-      "end": "2026-11-10T17:45"
+      "owner": "Paul",
+      "start": "2026-11-11T15:45",
+      "end": "2026-11-11T16:30"
     },
     {
       "id": "71804ce2-4922-4d33-ac04-20102597cd3e",
