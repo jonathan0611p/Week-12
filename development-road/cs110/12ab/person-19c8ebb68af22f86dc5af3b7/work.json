@@ -8792,6 +8792,9 @@
             "color": "#153f48"
           }
         ]
+      },
+      "dayBReview": {
+        "recap": "I understand that we need to work together "
       }
     },
     "receipts": [
@@ -44097,6 +44100,9 @@
           "color": "#153f48"
         }
       ]
+    },
+    "dayBReview": {
+      "recap": "I understand that we need to work together "
     }
   },
   "prefs": {
