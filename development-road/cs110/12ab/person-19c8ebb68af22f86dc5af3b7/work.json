@@ -174,7 +174,11 @@
         "mission": "We wanted to create a new type of game where we can combine minecraft mobs and creatures with pokemon balls",
         "framework": "My team a I choose P2P for the simple fact it will help us with the use of organized sources and will help us with the game engine setup.",
         "pipeline": "Background · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nUnnamed stage\nBackground: (Jonathan)\nLearn the lore from both source materials (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve.\n\nAssets: (Mio)\nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias) \nBuild/configure: Put the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput: (Daniel)\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\nResults: (Paul)\nResults - We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
-        "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub, Package manager, FPX Files. We chose this because this based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with and help us achieve what we want."
+        "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub, Package manager, FPX Files. We chose this because this based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with and help us achieve what we want.",
+        "code": "Classes & components\nClass | Responsibility | GameObject\n |  | \n\nVariables / properties\nName : type | Value / purpose | Used by\n |  | ",
+        "communication": "Team check-ins\nDescription / contact / owner | When · Pacific | Agreed\nsd |  | [ ]\n\nWorking agreements\nAgreement | Owner / where recorded | Confirmed\nsd | mb | [ ]",
+        "reuse": "jdzzxgchvjhjnkm",
+        "boardNotes": "bbvbbn"
       },
       "huddleBoard": {
         "notes": "",
@@ -300,7 +304,111 @@
         ]
       },
       "tasks": [],
-      "planRevision": 0
+      "planRevision": 0,
+      "codeTables": [
+        {
+          "id": "da622590-7685-4af9-a749-0f5e6b6cbede",
+          "title": "Classes & components",
+          "columns": [
+            {
+              "label": "Class",
+              "type": "text"
+            },
+            {
+              "label": "Responsibility",
+              "type": "text"
+            },
+            {
+              "label": "GameObject",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "id": "5413224a-525e-4630-9250-aa39f6f81ccc",
+          "title": "Variables / properties",
+          "columns": [
+            {
+              "label": "Name : type",
+              "type": "text"
+            },
+            {
+              "label": "Value / purpose",
+              "type": "text"
+            },
+            {
+              "label": "Used by",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "communicationTables": [
+        {
+          "id": "cbf4c746-d804-417d-815d-854f33697097",
+          "title": "Team check-ins",
+          "columns": [
+            {
+              "label": "Description / contact / owner",
+              "type": "text"
+            },
+            {
+              "label": "When · Pacific",
+              "type": "datetime-local"
+            },
+            {
+              "label": "Agreed",
+              "type": "checkbox"
+            }
+          ],
+          "rows": [
+            [
+              "sd",
+              "",
+              false
+            ]
+          ]
+        },
+        {
+          "id": "da4a4dc1-e258-49a5-8a3d-5b6c5edf2854",
+          "title": "Working agreements",
+          "columns": [
+            {
+              "label": "Agreement",
+              "type": "text"
+            },
+            {
+              "label": "Owner / where recorded",
+              "type": "text"
+            },
+            {
+              "label": "Confirmed",
+              "type": "checkbox"
+            }
+          ],
+          "rows": [
+            [
+              "sd",
+              "mb",
+              false
+            ]
+          ]
+        }
+      ]
     },
     "receipts": [
       {
@@ -733,7 +841,11 @@
       "mission": "We wanted to create a new type of game where we can combine minecraft mobs and creatures with pokemon balls",
       "framework": "My team a I choose P2P for the simple fact it will help us with the use of organized sources and will help us with the game engine setup.",
       "pipeline": "Background · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nUnnamed stage\nBackground: (Jonathan)\nLearn the lore from both source materials (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve.\n\nAssets: (Mio)\nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias) \nBuild/configure: Put the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput: (Daniel)\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\nResults: (Paul)\nResults - We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
-      "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub, Package manager, FPX Files. We chose this because this based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with and help us achieve what we want."
+      "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub, Package manager, FPX Files. We chose this because this based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with and help us achieve what we want.",
+      "code": "Classes & components\nClass | Responsibility | GameObject\n |  | \n\nVariables / properties\nName : type | Value / purpose | Used by\n |  | ",
+      "communication": "Team check-ins\nDescription / contact / owner | When · Pacific | Agreed\nsd |  | [ ]\n\nWorking agreements\nAgreement | Owner / where recorded | Confirmed\nsd | mb | [ ]",
+      "reuse": "jdzzxgchvjhjnkm",
+      "boardNotes": "bbvbbn"
     },
     "huddleBoard": {
       "notes": "",
@@ -859,7 +971,111 @@
       ]
     },
     "tasks": [],
-    "planRevision": 0
+    "planRevision": 0,
+    "codeTables": [
+      {
+        "id": "da622590-7685-4af9-a749-0f5e6b6cbede",
+        "title": "Classes & components",
+        "columns": [
+          {
+            "label": "Class",
+            "type": "text"
+          },
+          {
+            "label": "Responsibility",
+            "type": "text"
+          },
+          {
+            "label": "GameObject",
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "5413224a-525e-4630-9250-aa39f6f81ccc",
+        "title": "Variables / properties",
+        "columns": [
+          {
+            "label": "Name : type",
+            "type": "text"
+          },
+          {
+            "label": "Value / purpose",
+            "type": "text"
+          },
+          {
+            "label": "Used by",
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    ],
+    "communicationTables": [
+      {
+        "id": "cbf4c746-d804-417d-815d-854f33697097",
+        "title": "Team check-ins",
+        "columns": [
+          {
+            "label": "Description / contact / owner",
+            "type": "text"
+          },
+          {
+            "label": "When · Pacific",
+            "type": "datetime-local"
+          },
+          {
+            "label": "Agreed",
+            "type": "checkbox"
+          }
+        ],
+        "rows": [
+          [
+            "sd",
+            "",
+            false
+          ]
+        ]
+      },
+      {
+        "id": "da4a4dc1-e258-49a5-8a3d-5b6c5edf2854",
+        "title": "Working agreements",
+        "columns": [
+          {
+            "label": "Agreement",
+            "type": "text"
+          },
+          {
+            "label": "Owner / where recorded",
+            "type": "text"
+          },
+          {
+            "label": "Confirmed",
+            "type": "checkbox"
+          }
+        ],
+        "rows": [
+          [
+            "sd",
+            "mb",
+            false
+          ]
+        ]
+      }
+    ]
   },
   "prefs": {
     "schemaVersion": 1,
