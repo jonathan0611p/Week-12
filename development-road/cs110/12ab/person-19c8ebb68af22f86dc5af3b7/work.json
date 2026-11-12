@@ -173,7 +173,7 @@
       "huddle": {
         "mission": "We wanted to create a new type of game where we can combine minecraft mobs and creatures with pokemon balls",
         "framework": "My team a I choose P2P for the simple fact it will help us with the use of organized sources and will help us with the game engine setup.",
-        "pipeline": "Background · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nUnnamed stage\n Background \n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\nAssets\n    -"
+        "pipeline": "Background · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nUnnamed stage\n Background (Jonathan)\n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\nAssets (Mio)\n    -\n\nResults\n   - ljbvkjdfvbfdkvj\n"
       },
       "huddleBoard": {
         "notes": "",
@@ -183,15 +183,15 @@
         "edges": []
       },
       "pipelineBoard": {
-        "notes": " Background \n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\nAssets\n    -",
+        "notes": " Background (Jonathan)\n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\nAssets (Mio)\n    -\n\nResults\n   - ljbvkjdfvbfdkvj\n",
         "strokes": [],
         "images": [],
         "nodes": [
           {
             "id": "24fb5108-ebc0-4fd8-8aaa-d14481986848",
             "kind": "ellipse",
-            "x": 0.32071240154149483,
-            "y": 0.027557439321701044,
+            "x": 0.3959315978241828,
+            "y": 0.025336484946749657,
             "w": 0.16,
             "h": 0.17,
             "text": "Background",
@@ -731,7 +731,7 @@
     "huddle": {
       "mission": "We wanted to create a new type of game where we can combine minecraft mobs and creatures with pokemon balls",
       "framework": "My team a I choose P2P for the simple fact it will help us with the use of organized sources and will help us with the game engine setup.",
-      "pipeline": "Background · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nUnnamed stage\n Background \n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\nAssets\n    -"
+      "pipeline": "Background · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nUnnamed stage\n Background (Jonathan)\n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\nAssets (Mio)\n    -\n\nResults\n   - ljbvkjdfvbfdkvj\n"
     },
     "huddleBoard": {
       "notes": "",
@@ -741,15 +741,15 @@
       "edges": []
     },
     "pipelineBoard": {
-      "notes": " Background \n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\nAssets\n    -",
+      "notes": " Background (Jonathan)\n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\nAssets (Mio)\n    -\n\nResults\n   - ljbvkjdfvbfdkvj\n",
       "strokes": [],
       "images": [],
       "nodes": [
         {
           "id": "24fb5108-ebc0-4fd8-8aaa-d14481986848",
           "kind": "ellipse",
-          "x": 0.32071240154149483,
-          "y": 0.027557439321701044,
+          "x": 0.3959315978241828,
+          "y": 0.025336484946749657,
           "w": 0.16,
           "h": 0.17,
           "text": "Background",
