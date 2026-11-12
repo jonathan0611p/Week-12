@@ -24,7 +24,7 @@
         "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
         "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
       },
-      "currentPage": 39,
+      "currentPage": 48,
       "prepBoard": {
         "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
         "strokes": [],
@@ -8573,7 +8573,7 @@
           "result": ""
         }
       ],
-      "planRevision": 10,
+      "planRevision": 11,
       "codeTables": [
         {
           "id": "ef30df39-930f-4018-b419-5dab8a52ac67",
@@ -39842,6 +39842,22 @@
                 "restoredPoints": 0,
                 "approvedAt": null
               }
+            },
+            {
+              "code": "TIME-E97AED3EEC49A08BAA34577D",
+              "name": "Mio Bal",
+              "day": "B",
+              "arrival": "2026-11-12T21:38:19.569Z",
+              "start": "2026-11-12T20:45:00Z",
+              "calculated": 50,
+              "deduction": 20,
+              "status": "Calculated · awaiting instructor review",
+              "recovery": {
+                "status": "Not requested",
+                "requestedAt": null,
+                "restoredPoints": 0,
+                "approvedAt": null
+              }
             }
           ]
         },
@@ -44215,7 +44231,7 @@
       "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
       "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
     },
-    "currentPage": 39,
+    "currentPage": 48,
     "prepBoard": {
       "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
       "strokes": [],
@@ -52764,7 +52780,7 @@
         "result": ""
       }
     ],
-    "planRevision": 10,
+    "planRevision": 11,
     "codeTables": [
       {
         "id": "ef30df39-930f-4018-b419-5dab8a52ac67",
@@ -52999,7 +53015,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 39,
+    "lastPage": 48,
     "timerMinutes": 10
   }
 }
