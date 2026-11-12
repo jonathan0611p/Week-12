@@ -24,7 +24,7 @@
         "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
         "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
       },
-      "currentPage": 45,
+      "currentPage": 46,
       "prepBoard": {
         "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
         "strokes": [],
@@ -30882,6 +30882,22 @@
           "restoredPoints": 0,
           "approvedAt": null
         }
+      },
+      {
+        "code": "TIME-5A9039592BE6FE4AA640925B",
+        "name": "Jonathan Pacheco",
+        "day": "B",
+        "arrival": "2026-11-12T20:59:15.182Z",
+        "start": "2026-11-12T20:45:00Z",
+        "calculated": 10,
+        "deduction": 10,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
       }
     ],
     "team": {
@@ -30900,6 +30916,22 @@
               "day": "A",
               "arrival": "2026-11-10T20:59:51.006Z",
               "start": "2026-11-10T20:45:00Z",
+              "calculated": 10,
+              "deduction": 10,
+              "status": "Calculated · awaiting instructor review",
+              "recovery": {
+                "status": "Not requested",
+                "requestedAt": null,
+                "restoredPoints": 0,
+                "approvedAt": null
+              }
+            },
+            {
+              "code": "TIME-5A9039592BE6FE4AA640925B",
+              "name": "Jonathan Pacheco",
+              "day": "B",
+              "arrival": "2026-11-12T20:59:15.182Z",
+              "start": "2026-11-12T20:45:00Z",
               "calculated": 10,
               "deduction": 10,
               "status": "Calculated · awaiting instructor review",
@@ -35297,7 +35329,7 @@
       "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
       "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
     },
-    "currentPage": 45,
+    "currentPage": 46,
     "prepBoard": {
       "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
       "strokes": [],
@@ -44070,7 +44102,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 45,
+    "lastPage": 46,
     "timerMinutes": 10
   }
 }
