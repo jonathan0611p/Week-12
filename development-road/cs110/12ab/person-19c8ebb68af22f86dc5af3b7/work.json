@@ -24,7 +24,7 @@
         "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
         "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
       },
-      "currentPage": 51,
+      "currentPage": 52,
       "prepBoard": {
         "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
         "strokes": [],
@@ -8813,6 +8813,12 @@
         "tests": "jk",
         "handoff": "jk",
         "reflection": "jk"
+      },
+      "taskResults": {
+        "71f2f3b5-d3b2-4a4e-8679-33989ce1ef90": {
+          "result": "I made the background story and the contents of what the buildings are, what they do and how we can make them better. I started creating the backstory for our main character and designing the world",
+          "done": true
+        }
       }
     },
     "receipts": [
@@ -44365,7 +44371,7 @@
         }
       ],
       "invites": [],
-      "revision": 11,
+      "revision": 17,
       "plan": {
         "mission": "a story we want to see is a minecraft mod with aspects of pokemon. a playable goal is to be to throw a pokeball at a minecraft mod",
         "framework": "my team a I choose P2P for the simple fact it will help us with the use of organized sources and will help us with the game engine setup.",
@@ -48626,7 +48632,7 @@
           "owner": "PERSON-32DB4A42A2AF226E95A2B700",
           "due": "2026-11-12T20:30",
           "done": false,
-          "result": ""
+          "result": "i made the unity scene messed with the fbx file on the thing then i worked with text document and made a log to keep track of my work and my ideas that i will share with the team"
         },
         {
           "id": "beb67b75-0e4d-4bf1-84bf-f4ae0e218857",
@@ -48649,8 +48655,8 @@
           "task": "help build hello world",
           "owner": "PERSON-A810520A6425EF242595EF4D",
           "due": "2026-11-12T20:30",
-          "done": false,
-          "result": ""
+          "done": true,
+          "result": "What we did was to make the flat world for our project named craftmon"
         }
       ],
       "form": "FORM-45BB65BC77CE9BCDC045F54E"
@@ -48671,7 +48677,7 @@
       "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
       "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
     },
-    "currentPage": 51,
+    "currentPage": 52,
     "prepBoard": {
       "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
       "strokes": [],
@@ -57460,12 +57466,18 @@
       "tests": "jk",
       "handoff": "jk",
       "reflection": "jk"
+    },
+    "taskResults": {
+      "71f2f3b5-d3b2-4a4e-8679-33989ce1ef90": {
+        "result": "I made the background story and the contents of what the buildings are, what they do and how we can make them better. I started creating the backstory for our main character and designing the world",
+        "done": true
+      }
     }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 51,
+    "lastPage": 52,
     "timerMinutes": 10
   }
 }
