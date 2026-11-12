@@ -1,5 +1,5 @@
 {
-  "notes": "Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where ",
+  "notes": " Background \n    - Learn the lore from both source material (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve. \n\n",
   "strokes": [],
   "images": [],
   "nodes": [
@@ -23,11 +23,11 @@
       "y": 0.031055913442898597,
       "w": 0.16,
       "h": 0.17,
-      "text": "Inputs / assets",
+      "text": "Assets",
       "color": "#175363",
-      "owner": "",
-      "start": "2026-11-10T13:45",
-      "end": "2026-11-10T14:45"
+      "owner": "Mio",
+      "start": "2026-11-11T15:45",
+      "end": "2026-11-11T16:30"
     },
     {
       "id": "7a9acc3b-4cea-417b-b8bd-c990585aba69",
@@ -45,8 +45,8 @@
     {
       "id": "f3c9ebbb-a872-48f6-be9a-92a9fc002b73",
       "kind": "rect",
-      "x": 0.6612887191953446,
-      "y": 0.529763229420751,
+      "x": 0.7365079154780326,
+      "y": 0.15573262810934463,
       "w": 0.16,
       "h": 0.17,
       "text": "Output / scene",
@@ -58,8 +58,8 @@
     {
       "id": "8bfc53c9-07d2-423b-b9de-6a64b7b3c56c",
       "kind": "ellipse",
-      "x": 0.3008235922266559,
-      "y": 0.5249677636150263,
+      "x": 0.7806924336821365,
+      "y": 0.43625525897445205,
       "w": 0.16,
       "h": 0.17,
       "text": "Test + handoff",
