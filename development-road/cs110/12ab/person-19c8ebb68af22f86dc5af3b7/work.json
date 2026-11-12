@@ -24,7 +24,7 @@
         "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
         "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
       },
-      "currentPage": 56,
+      "currentPage": 57,
       "prepBoard": {
         "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
         "strokes": [],
@@ -8819,6 +8819,61 @@
           "result": "I made the background story and the contents of what the buildings are, what they do and how we can make them better. I started creating the backstory for our main character and designing the world",
           "done": true
         }
+      },
+      "reportBBoard": {
+        "notes": "",
+        "strokes": [],
+        "images": [],
+        "nodes": [
+          {
+            "id": "f50cfb32-642a-46f8-b758-9d942012d853",
+            "kind": "rect",
+            "x": 0.04498871331828444,
+            "y": 0.09100164848104247,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Story"
+          },
+          {
+            "id": "878d5f58-5bf2-4d75-8cea-4bcf723ac49a",
+            "kind": "rect",
+            "x": 0.3070977104159949,
+            "y": 0.06085799513305595,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Import to Unity"
+          },
+          {
+            "id": "a0fd770f-121b-4656-90ba-704e0a5e8a9a",
+            "kind": "rect",
+            "x": 0.5320574008384392,
+            "y": 0.27186356856896143,
+            "w": 0.27368268300548204,
+            "h": 0.3161731690085564,
+            "color": "#153f48",
+            "text": "Upload to Canvas"
+          }
+        ],
+        "edges": [
+          {
+            "id": "d0c6de71-3322-43d2-a8dc-36ae35118538",
+            "from": "f50cfb32-642a-46f8-b758-9d942012d853",
+            "fromPort": "e",
+            "to": "878d5f58-5bf2-4d75-8cea-4bcf723ac49a",
+            "toPort": "w",
+            "color": "#153f48"
+          },
+          {
+            "id": "98b814ca-41b8-45a6-b32e-c277e51a6864",
+            "from": "878d5f58-5bf2-4d75-8cea-4bcf723ac49a",
+            "fromPort": "e",
+            "to": "a0fd770f-121b-4656-90ba-704e0a5e8a9a",
+            "toPort": "w",
+            "color": "#153f48"
+          }
+        ]
       }
     },
     "receipts": [
@@ -48677,7 +48732,7 @@
       "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
       "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
     },
-    "currentPage": 56,
+    "currentPage": 57,
     "prepBoard": {
       "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
       "strokes": [],
@@ -57472,12 +57527,67 @@
         "result": "I made the background story and the contents of what the buildings are, what they do and how we can make them better. I started creating the backstory for our main character and designing the world",
         "done": true
       }
+    },
+    "reportBBoard": {
+      "notes": "",
+      "strokes": [],
+      "images": [],
+      "nodes": [
+        {
+          "id": "f50cfb32-642a-46f8-b758-9d942012d853",
+          "kind": "rect",
+          "x": 0.04498871331828444,
+          "y": 0.09100164848104247,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Story"
+        },
+        {
+          "id": "878d5f58-5bf2-4d75-8cea-4bcf723ac49a",
+          "kind": "rect",
+          "x": 0.3070977104159949,
+          "y": 0.06085799513305595,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Import to Unity"
+        },
+        {
+          "id": "a0fd770f-121b-4656-90ba-704e0a5e8a9a",
+          "kind": "rect",
+          "x": 0.5320574008384392,
+          "y": 0.27186356856896143,
+          "w": 0.27368268300548204,
+          "h": 0.3161731690085564,
+          "color": "#153f48",
+          "text": "Upload to Canvas"
+        }
+      ],
+      "edges": [
+        {
+          "id": "d0c6de71-3322-43d2-a8dc-36ae35118538",
+          "from": "f50cfb32-642a-46f8-b758-9d942012d853",
+          "fromPort": "e",
+          "to": "878d5f58-5bf2-4d75-8cea-4bcf723ac49a",
+          "toPort": "w",
+          "color": "#153f48"
+        },
+        {
+          "id": "98b814ca-41b8-45a6-b32e-c277e51a6864",
+          "from": "878d5f58-5bf2-4d75-8cea-4bcf723ac49a",
+          "fromPort": "e",
+          "to": "a0fd770f-121b-4656-90ba-704e0a5e8a9a",
+          "toPort": "w",
+          "color": "#153f48"
+        }
+      ]
     }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 56,
+    "lastPage": 57,
     "timerMinutes": 10
   }
 }
