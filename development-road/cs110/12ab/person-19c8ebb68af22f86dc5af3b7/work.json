@@ -24,7 +24,7 @@
         "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
         "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
       },
-      "currentPage": 35,
+      "currentPage": 36,
       "prepBoard": {
         "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
         "strokes": [],
@@ -177,8 +177,8 @@
         "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub, Package manager, FPX Files. We chose this because this based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with and help us achieve what we want.",
         "code": "Variables / properties\nName : type | Value / purpose | Used by\npokeBallCount : int | Count poke balls | PokeBalltem\ncaptureChance : float | Chances of capturing | MobCaptureSystem\nbiomeType : string | determines pokemon biome generated | PokemonBiome\nisCaptured : boolean | checks if mob capture | MobCaptureSystem\ntargetMob : Entity | stores mobs  | PokeBallProjectile\n\nClasses & components\nClass | Responsibility | GameObject\nPokeBalltem | Allows players to throw Poke Balls | Poke Ball\nMobCaptureSystem | Detects and captures Minecraft Mobs | Minecraft Mob\nPokemonBiome | Adds Pokemon-inspired terrain | Minecraft World\nPokemonStructures | Generates Pokemon-theme buildings and locations | World Structures\nPokemonAffects | Adds capture animations and visual affects | Particle Effects",
         "communication": "Working agreements\nAgreement |  where | Time\nmeet Wednesdays | Discord Call  | 20:00\n\nTeam check-ins\nDates | When  | How\nTues/ Thru | 18:00 | Discord update",
-        "reuse": "We can reuse the organization patters we are learning/learned from the 6 videos we saw on game development using Unity and Talsta. We can also reuse the story element to build upon what we have and use the skills we have learned to ",
-        "boardNotes": "bbvbbn"
+        "reuse": "We can reuse the organization patters we are learning/learned from the 6 videos we saw on game development using Unity and Talsta. We can also reuse the story element to build upon what we have and use the skills we have learned to revise our work. We can also continue to further use AI to keep us on track and add new ideas. ",
+        "boardNotes": "create a board of what our plans are and came up with our communication schedule, looked back on our previous knowledge for future assigments"
       },
       "huddleBoard": {
         "notes": "",
@@ -731,7 +731,7 @@
       "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
       "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
     },
-    "currentPage": 35,
+    "currentPage": 36,
     "prepBoard": {
       "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
       "strokes": [],
@@ -884,8 +884,8 @@
       "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub, Package manager, FPX Files. We chose this because this based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with and help us achieve what we want.",
       "code": "Variables / properties\nName : type | Value / purpose | Used by\npokeBallCount : int | Count poke balls | PokeBalltem\ncaptureChance : float | Chances of capturing | MobCaptureSystem\nbiomeType : string | determines pokemon biome generated | PokemonBiome\nisCaptured : boolean | checks if mob capture | MobCaptureSystem\ntargetMob : Entity | stores mobs  | PokeBallProjectile\n\nClasses & components\nClass | Responsibility | GameObject\nPokeBalltem | Allows players to throw Poke Balls | Poke Ball\nMobCaptureSystem | Detects and captures Minecraft Mobs | Minecraft Mob\nPokemonBiome | Adds Pokemon-inspired terrain | Minecraft World\nPokemonStructures | Generates Pokemon-theme buildings and locations | World Structures\nPokemonAffects | Adds capture animations and visual affects | Particle Effects",
       "communication": "Working agreements\nAgreement |  where | Time\nmeet Wednesdays | Discord Call  | 20:00\n\nTeam check-ins\nDates | When  | How\nTues/ Thru | 18:00 | Discord update",
-      "reuse": "We can reuse the organization patters we are learning/learned from the 6 videos we saw on game development using Unity and Talsta. We can also reuse the story element to build upon what we have and use the skills we have learned to ",
-      "boardNotes": "bbvbbn"
+      "reuse": "We can reuse the organization patters we are learning/learned from the 6 videos we saw on game development using Unity and Talsta. We can also reuse the story element to build upon what we have and use the skills we have learned to revise our work. We can also continue to further use AI to keep us on track and add new ideas. ",
+      "boardNotes": "create a board of what our plans are and came up with our communication schedule, looked back on our previous knowledge for future assigments"
     },
     "huddleBoard": {
       "notes": "",
@@ -1160,7 +1160,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 35,
+    "lastPage": 36,
     "timerMinutes": 10
   }
 }
