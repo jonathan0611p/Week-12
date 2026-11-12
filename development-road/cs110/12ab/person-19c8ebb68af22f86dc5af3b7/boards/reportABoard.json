@@ -1,5 +1,5 @@
 {
-  "notes": "",
+  "notes": "The story has its what, when and who, I will be adding more context to those point",
   "strokes": [],
   "images": [],
   "nodes": [
@@ -11,8 +11,93 @@
       "w": 0.18,
       "h": 0.14,
       "color": "#153f48",
-      "text": ""
+      "text": "Story"
+    },
+    {
+      "id": "bf9f80f8-ddcf-47fe-8e97-53a04f330860",
+      "kind": "rect",
+      "x": 0.05541983381142329,
+      "y": 0.3357450298844201,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": "Who"
+    },
+    {
+      "id": "a31c0250-ce69-4787-bf93-85fb67863bfa",
+      "kind": "rect",
+      "x": 0.3071534580508118,
+      "y": 0.3375406770341052,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": "What"
+    },
+    {
+      "id": "da6d4b9d-4463-4931-bb91-275676bda9d0",
+      "kind": "rect",
+      "x": 0.5530665465918732,
+      "y": 0.3303589787596701,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": "When"
+    },
+    {
+      "id": "57db5749-303f-4a65-ab4e-32a874967e3f",
+      "kind": "rect",
+      "x": 0.01737035202807725,
+      "y": 0.5942729498724817,
+      "w": 0.22823521803910624,
+      "h": 0.1507899450334319,
+      "color": "#153f48",
+      "text": "Who is the audience playing as"
+    },
+    {
+      "id": "7646d0cc-c8b7-4c79-8876-1c8f4051a59b",
+      "kind": "rect",
+      "x": 0.3115187696241413,
+      "y": 0.5996588640242617,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": "What will they remember"
+    },
+    {
+      "id": "e16e7de0-288a-47a2-9f39-cacd91437eca",
+      "kind": "rect",
+      "x": 0.5528499223832359,
+      "y": 0.5978455795501,
+      "w": 0.2182661892539055,
+      "h": 0.1436265689483236,
+      "color": "#153f48",
+      "text": "When in time does it take place"
     }
   ],
-  "edges": []
+  "edges": [
+    {
+      "id": "444aeb37-db4a-4a2e-99b7-e80ffd678b12",
+      "from": "bf9f80f8-ddcf-47fe-8e97-53a04f330860",
+      "fromPort": "s",
+      "to": "57db5749-303f-4a65-ab4e-32a874967e3f",
+      "toPort": "n",
+      "color": "#153f48"
+    },
+    {
+      "id": "d4125bfd-1996-477a-b7e4-270bf14cc1b5",
+      "from": "a31c0250-ce69-4787-bf93-85fb67863bfa",
+      "fromPort": "s",
+      "to": "7646d0cc-c8b7-4c79-8876-1c8f4051a59b",
+      "toPort": "n",
+      "color": "#153f48"
+    },
+    {
+      "id": "213168b1-e6bb-4466-9c8a-719f4fa4de0b",
+      "from": "da6d4b9d-4463-4931-bb91-275676bda9d0",
+      "fromPort": "s",
+      "to": "e16e7de0-288a-47a2-9f39-cacd91437eca",
+      "toPort": "n",
+      "color": "#153f48"
+    }
+  ]
 }
